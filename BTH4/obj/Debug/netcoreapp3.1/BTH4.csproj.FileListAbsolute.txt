@@ -1,0 +1,13 @@
+D:\Bài Thực Hành\BTH4\BTH4\bin\Debug\netcoreapp3.1\BTH4.exe
+D:\Bài Thực Hành\BTH4\BTH4\bin\Debug\netcoreapp3.1\BTH4.deps.json
+D:\Bài Thực Hành\BTH4\BTH4\bin\Debug\netcoreapp3.1\BTH4.runtimeconfig.json
+D:\Bài Thực Hành\BTH4\BTH4\bin\Debug\netcoreapp3.1\BTH4.runtimeconfig.dev.json
+D:\Bài Thực Hành\BTH4\BTH4\bin\Debug\netcoreapp3.1\BTH4.dll
+D:\Bài Thực Hành\BTH4\BTH4\bin\Debug\netcoreapp3.1\BTH4.pdb
+D:\Bài Thực Hành\BTH4\BTH4\obj\Debug\netcoreapp3.1\BTH4.csprojAssemblyReference.cache
+D:\Bài Thực Hành\BTH4\BTH4\obj\Debug\netcoreapp3.1\BTH4.csproj.CoreCompileInputs.cache
+D:\Bài Thực Hành\BTH4\BTH4\obj\Debug\netcoreapp3.1\BTH4.AssemblyInfoInputs.cache
+D:\Bài Thực Hành\BTH4\BTH4\obj\Debug\netcoreapp3.1\BTH4.AssemblyInfo.cs
+D:\Bài Thực Hành\BTH4\BTH4\obj\Debug\netcoreapp3.1\BTH4.dll
+D:\Bài Thực Hành\BTH4\BTH4\obj\Debug\netcoreapp3.1\BTH4.pdb
+D:\Bài Thực Hành\BTH4\BTH4\obj\Debug\netcoreapp3.1\BTH4.genruntimeconfig.cache
